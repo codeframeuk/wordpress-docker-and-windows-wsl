@@ -4,5 +4,9 @@
 # But not these files...
 !.gitignore
 
+# Unignore wp-config - we changed the FS_DIRECT method so we could delete those un-used themes
+!wp-config.php
+
 # Unignore the themes directory
+!wp-content/
 !wp-content/themes/
