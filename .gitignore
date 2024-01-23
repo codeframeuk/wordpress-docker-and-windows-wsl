@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+
+# Unignore the themes directory
+!wp-content/themes/
