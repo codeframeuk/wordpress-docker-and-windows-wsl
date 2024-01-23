@@ -7,3 +7,5 @@ If you are trying to run Wordpress within a docker environment on your Windows m
 - Run **docker --version** to confirm you have Docker installed
 - Run **docker-compose up -d**
 - That should do ya!
+
+There's also a **.gitignore** here to keep you nice and tidy with your repo.
